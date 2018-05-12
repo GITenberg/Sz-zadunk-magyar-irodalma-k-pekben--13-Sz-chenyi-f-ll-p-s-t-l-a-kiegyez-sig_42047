@@ -1,0 +1,28 @@
+_repo: Sz-zadunk-magyar-irodalma-k-pekben--13-Sz-chenyi-f-ll-p-s-t-l-a-kiegyez-sig_42047
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Endrődi, Sándor
+    alias: Endrodi, Sandor
+    birthdate: 1850
+    deathdate: 1920
+    gutenberg_agent_id: '41493'
+    url: http://www.gutenberg.org/2009/agents/41493
+    wikipedia: http://hu.wikipedia.org/wiki/Endr%C5%91di_S%C3%A1ndor_(k%C3%B6lt%C5%91)
+description: ''
+gutenberg_issued: '2013-02-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42047'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Hungarian literature -- 19th century -- History and criticism'
+title: 'Századunk magyar irodalma képekben: Széchenyi föllépésétől a kiegyezésig'
+url: http://www.gutenberg.org/ebooks/42047
