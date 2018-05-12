@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/41493
     wikipedia: http://hu.wikipedia.org/wiki/Endr%C5%91di_S%C3%A1ndor_(k%C3%B6lt%C5%91)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42047#Sz-zadunk-magyar-irodalma-k-pekben--13-Sz-chenyi-f-ll-p-s-t-l-a-kiegyez-sig
 gutenberg_issued: '2013-02-08'
 gutenberg_type: Text
 identifiers:
